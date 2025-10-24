@@ -141,13 +141,6 @@ const expenses = [
   { name: 'Carla', spent: 100 }
 ];
 
-// Resultado esperado:
-// [
-//   { name: 'Ana', balance: +13.33 },
-//   { name: 'Luis', balance: -26.67 },
-//   { name: 'Carla', balance: +13.33 }
-// ]
-
 // Bonus: agregá la posibilidad de incluir propina
 // y filtrar solo los que consumieron alcohol o comida.
 
