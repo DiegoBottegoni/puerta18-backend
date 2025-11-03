@@ -1,9 +1,12 @@
-02-NodeJs
-02-NodeJs/009-NodeIntro.js
-02-NodeJs/010-Async.js
-02-NodeJs/011-Promises.js
-02-NodeJs/012-AsyncAwait.js
-02-NodeJs/013-FetchAPI.js
-02-NodeJs/014-Modules.js
-02-NodeJs/015-ErrorHandling.js
-02-NodeJs/016-OOP.js
+# Archivos de entorno de desarrollo
+02-NodeJs/node_modules/
+02-NodeJs/package-lock.json
+02-NodeJs/package.json
+
+# Archivos pendientes de revisión
+02-NodeJs/017-FetchAPI.js
+02-NodeJs/018-Modules.js
+02-NodeJs/019-ErrorHandling.js
+
+# Archivos de datos
+users.json
